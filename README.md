@@ -1,3 +1,6 @@
+# Marlin 2.0 сконфигурированная под принтер Ender-3 с платой SKR1.3 и драйверами TMC2208 UART
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
